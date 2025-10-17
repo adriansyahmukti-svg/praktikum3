@@ -1,7 +1,8 @@
 praktikum 3 pengantar pemograman
 
 Ini adalah hasil tugas Praktikum 3 dari mata kuliah Pengantar Pemrograman.  
-Di sini saya membuat tiga program sederhana menggunakan bahasa Python.  
+
+saya membuat tiga program sederhana menggunakan bahasa Python.  
 
 Pada praktikum kali ini, saya membuat tiga program yang mungkin berhubungan dengan if-else dan perhitungan sederhana.
 
