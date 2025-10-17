@@ -2,13 +2,11 @@ praktikum 3 pengantar pemograman
 
 Ini adalah hasil tugas Praktikum 3 dari mata kuliah Pengantar Pemrograman.  
 Di sini saya membuat tiga program sederhana menggunakan bahasa Python.  
-Program ini masih dasar, tapi saya berusaha memahaminya dan menulis sendiri satu per satu.
 
 Pada praktikum kali ini, saya membuat tiga program yang mungkin berhubungan dengan if-else dan perhitungan sederhana.
 
 Program pertama adalah aprogram kasir sederhana.  
-Program ini digunakan untuk menghitung total harga belanja, jumlah barang, serta diskon yang diberikan.  
-Program akan menampilkan hasil total sebelum dan sesudah diskon.
+Program ini digunakan untuk menghitung total harga belanja, jumlah barang, serta diskon yang diberikan. 
 
 Contoh hasil:
 === Program Kasir Sederhana ===
@@ -40,4 +38,4 @@ Contoh hasil:
 Masukkan suhu aktual (°C): 29
 Status: Suhu dalam batas normal
 
-TERIMA KASIH!
+TERIMA KASIH TELAH MEMBACANYA. 
