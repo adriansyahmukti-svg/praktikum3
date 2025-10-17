@@ -11,11 +11,11 @@ Program ini digunakan untuk menghitung total harga belanja, jumlah barang, serta
 
 Contoh hasil:
 === Program Kasir Sederhana ===
-Harga per unit : Rp 20000
+Harga per unit : Rp 20.000
 Jumlah barang : 2
-Total sebelum diskon : Rp 40000
-Diskon (10%) : Rp 4000
-Total setelah diskon : Rp 36000
+Total sebelum diskon : Rp 40.000
+Diskon (10%) : Rp 4.000
+Total setelah diskon : Rp 36.000
 
 Program kedua adalah Program Pengecekan Berat dan Volume Produk.  
 Program ini mensimulasikan sistem otomatis di pabrik minuman untuk mengecek berat dan volume produk.  
@@ -23,8 +23,7 @@ Jika berat atau volume di luar batas standar, maka produk dianggap gagal uji.
 
 Contoh hasil:
 === Sistem Otomatis Pengecekan Berat dan Volume Produk ===
-Data ke-1
-Berat produk : 499.3 gram
+Berat produk : 499.0 gram
 Volume produk : 350.1 ml
 Status berat : Sesuai standar
 Status volume : Sesuai standar
@@ -36,7 +35,7 @@ Jika suhu terlalu tinggi maka akan muncul peringatan, sedangkan jika suhu normal
 
 Contoh hasil:
 === Sistem Pengendali Suhu Gudang ===
-Masukkan suhu aktual (°C): 29
+Masukkan suhu aktual: 29
 Status: Suhu dalam batas normal
 
-TERIMA KASIH TELAH MEMBACANYA. 
+TERIMA KASIH TELAH MELIHAT TUGAS SAYA. 
